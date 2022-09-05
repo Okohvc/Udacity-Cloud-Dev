@@ -11,7 +11,7 @@ This project uses NPM to manage software dependencies. NPM Relies on the package
 ```bash
 npm install
 ```
->_tip_: **npm i** is shorthand for **npm install**
+>_tip_: **npm i** is shorthand for **npm install** Addinng Something New
 
 ### Installing useful tools
 #### 1. [Postbird](https://github.com/paxa/postbird)
